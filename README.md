@@ -110,6 +110,7 @@ Additional Configuration:
   * static CP nic
   * dynamic DP (tenant) nic
   * Validatate CloudEra Compatibility
+  * Tenant / Downward APIs
 
 # Action Items:
 * Diagram:
