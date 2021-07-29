@@ -109,3 +109,10 @@ Additional Configuration:
 * IPTables Per Nic
   * static CP nic
   * dynamic DP (tenant) nic
+  * Validatate CloudEra Compatibility
+
+# Action Items:
+* Diagram:
+  * AuthN/AuthZ
+  * Cluster DNS
+  * Multus / CNI
