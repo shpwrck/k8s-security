@@ -3,6 +3,7 @@
 ## Motivations
 
 * Administration of Kubernetes cannot be done with Kubernetes
+  * Physical segmentation of the management and tenant workloads.
 * Control traffic and workload traffic cannot share the same network interface
 
 ## General Concepts
