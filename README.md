@@ -104,3 +104,8 @@ Recommended Configuration:
 Additional Configuration:
 
 * N/A
+
+# Notes
+* IPTables Per Nic
+  * static CP nic
+  * dynamic DP (tenant) nic
