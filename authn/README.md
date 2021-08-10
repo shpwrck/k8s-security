@@ -13,7 +13,7 @@ __API Server__
 --oidc-groups-claim=groups
 ```
 
-> *The APIServer does not need to communicate with the Identity Provider*
+> *The APIServer does not need to communicate with the Identity Provider during the authentication flow*
 
 The above will require either:
 
