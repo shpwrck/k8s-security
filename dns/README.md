@@ -70,6 +70,7 @@ Through a combination of node-local dns, and CoreDNS configuration you can contr
 ### Implications
 
 * CoreDNS communicates with the APIServer and thus must be maintained as a privileged pod.
+* NodeLocal DNS will not always be 100% consistent across large clusters.
 
 [^1]: https://kubernetes.io/docs/tasks/administer-cluster/nodelocaldns/
 [^2]: https://coredns.io/plugins/kubernetes/
