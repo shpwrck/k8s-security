@@ -1,6 +1,6 @@
 # Authentication Through OAuth2.0 (Ping/Dex/Okta/etc)
 
-![Authentication Flow](https://raw.githubusercontent.com/shpwrck/k8s-security/master/AuthNZ.png)
+![Auth Flow](https://raw.githubusercontent.com/shpwrck/k8s-security/master/AuthNZ.png)
 
 ## [Example](https://dexidp.io/docs/kubernetes/)
 
